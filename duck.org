@@ -1,0 +1,5 @@
+* form handling
+we'll need to build an api
+- country must be us (isn't submitted)
+- need at least a state
+* TODO url building
